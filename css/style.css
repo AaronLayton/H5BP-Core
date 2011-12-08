@@ -213,6 +213,7 @@ header li a { background:#999;border:1px solid #000;color:#fff;padding:3px;text-
 header li a:hover { background:#666; }
 
 footer { background:#CCC;height:50px;margin:0 auto;width:960px; }
+footer p { font-size:10px;margin:0;padding:18px 0 0 10px; }
 
 .pageContent { margin:0 auto;padding:25px 0;width:960px; }
 
