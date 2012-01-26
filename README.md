@@ -31,3 +31,5 @@ Other things to note
 * You can check my jsFiddles that lead me here at http://jsfiddle.net/AaronLayton/U3ucS/52/ | http://jsfiddle.net/AaronLayton/eyNre/33/
 * This idea is based on the Mediator Pattern (http://en.wikipedia.org/wiki/Mediator_pattern) and the Publish/Subscribe Pattern (or Observer) (http://en.wikipedia.org/wiki/Publish/subscribe) as a I'm trying to implement modules of functionality
 * I'm still new at this... go easy... 
+
+... test edit with TortoiseGit
